@@ -1,0 +1,70 @@
+body {
+background-color: #ccc;
+}
+
+.block {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: 364px;
+    width: 300px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    box-shadow: inset;
+    background-color: #fff;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.username {
+    margin: 0;
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+.tag {
+    margin: 0;
+    margin-bottom: 15px;
+    font-size: 15px;
+    color: gray;
+}
+
+.location {
+    margin: 0;
+    margin-bottom: 25px;
+    color: gray;
+    font-size: 20px;
+}
+
+.stats {
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+}
+
+.statsObject {
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 54px;
+    border: 1px solid gray;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #ccc;
+}
+
+.quantity {
+    font-weight: 700;
+}
